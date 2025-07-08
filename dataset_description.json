@@ -6,19 +6,19 @@
     "DatasetType": "raw",
     "Authors": [
         "Jessica E. Anderson",
-        "Laura Carlton", 
-    "Sreekanth Kura", 
-    "Walker J. O'Brien", 
-	"De'Ja Rogers", 
-	"Parisa Rahimi", 
-	"Parya Y. Farzam", 
-	"Muhammad H. Zaman", 
-	"David A. Boas", 
-	"Meryem A. Yücel"
+        "Laura Carlton",
+        "Sreekanth Kura",
+        "Walker J. O'Brien",
+        "De'Ja Rogers",
+        "Parisa Rahimi",
+        "Parya Y. Farzam",
+        "Muhammad H. Zaman",
+        "David A. Boas",
+        "Meryem A. Yücel"
     ],
     "Acknowledgements": "We thank Yuanyuan Gao, Antonio Ortega, Sudan Duwadi, Darash Desai, Alexander Von Lühmann, Jack Giblin, Xiaojun Cheng, Byungchan (Kenny) Kim, Chantal Stern, Alice Cronin-Golomb, Rini Kaplan, and Neila Gross for helpful lab training and insightful discussions and feedback. This project was supported by NIH NEW grant U01-EB 029856 and Boston University research funds.",
     "HowToAcknowledge": "",
-    "DatasetDOI": "Enter DOI here if available.",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006460.v1.0.0",
     "Funding": [
         "This project was supported by NIH NEW grant U01-EB 029856 and Boston University research funds."
     ],
