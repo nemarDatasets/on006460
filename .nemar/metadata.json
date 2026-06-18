@@ -1,0 +1,42 @@
+{
+  "version": "2.0",
+  "dataset_id": "on006460",
+  "source": "openneuro",
+  "source_id": "ds006460",
+  "title": "High-DensityvSparsefNIRS_WordColorStroop_HD_Anderson_2025",
+  "authors": {
+    "Jessica E. Anderson": {},
+    "Laura Carlton": {},
+    "Sreekanth Kura": {},
+    "Walker J. O'Brien": {},
+    "De'Ja Rogers": {},
+    "Parisa Rahimi": {},
+    "Parya Y. Farzam": {},
+    "Muhammad H. Zaman": {},
+    "David A. Boas": {},
+    "Meryem A. Yücel": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds006460.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.8.0",
+  "recording_modality": [
+    "nirs"
+  ],
+  "datatypes": [
+    "nirs"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "This project was supported by NIH NEW grant U01-EB 029856 and Boston University research funds."
+    }
+  ],
+  "acknowledgements": "We thank Yuanyuan Gao, Antonio Ortega, Sudan Duwadi, Darash Desai, Alexander Von Lühmann, Jack Giblin, Xiaojun Cheng, Byungchan (Kenny) Kim, Chantal Stern, Alice Cronin-Golomb, Rini Kaplan, and Neila Gross for helpful lab training and insightful discussions and feedback. This project was supported by NIH NEW grant U01-EB 029856 and Boston University research funds."
+}
