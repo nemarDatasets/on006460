@@ -1,1 +1,11 @@
-{"TaskName": "WordStroop", "SamplingFrequency": 17.438616071428573, "NIRSChannelCount": 428, "NIRSSourceOptodeCount": 25, "NIRSDetectorOptodeCount": 66}
+{
+  "TaskName": "WordStroop",
+  "SamplingFrequency": 17.438616071428573,
+  "NIRSChannelCount": 428,
+  "NIRSSourceOptodeCount": 25,
+  "NIRSDetectorOptodeCount": 66,
+  "Manufacturer": "NIRx Medizintechnik GmbH",
+  "ManufacturersModelName": "NIRSport2 (four cascaded 16x16 devices for HD)",
+  "RecordingDuration": 593.224,
+  "RecordingType": "continuous"
+}
